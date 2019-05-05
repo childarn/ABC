@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"mitsuna_battle01","characterIndex":0,"characterName":"mitsuna01","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"mitsuna-kao","traits":[],"initialLevel":1,"maxLevel":99,"name":"みつな","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"mitsuna_battle01","characterIndex":1,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"ヒャクナ","nickname":"","note":"","profile":"時代を司る猫\nすごい、つよい、かっこいい！…かは不明"}
+]
