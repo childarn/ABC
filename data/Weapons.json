@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"剣","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
-{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"斧","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
-{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"杖","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":1,"animationId":0,"description":"装備した者に勝利をもたらす伝説の剣\n何故か量産されているが伝説は増える物なので大丈夫","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":10}],"iconIndex":97,"name":"伝説の剣","note":"","params":[0,0,500,0,0,0,0,0],"price":9999,"wtypeId":2},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"浅瀬は渡れるって","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"知ってるかい？","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
 {"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"弓","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7}
 ]
