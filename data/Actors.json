@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"mitsuna_battle01","characterIndex":0,"characterName":"mitsuna01","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"01mitsuna","traits":[],"initialLevel":1,"maxLevel":99,"name":"みつな","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"mitsuna_battle01","characterIndex":1,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"ヒャクナ","nickname":"","note":"","profile":"時代を司る猫\nすごい、つよい、かっこいい！…かは不明"},
+{"id":3,"battlerName":"mitsuna_battle01","characterIndex":6,"characterName":"People1","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"友","traits":[],"initialLevel":1,"maxLevel":99,"name":"命","nickname":"","note":"","profile":"無敵。強い。でもエロい。"}
+]
