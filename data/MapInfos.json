@@ -1,10 +1,10 @@
 [
 null,
 {"id":1,"expanded":true,"name":"マップセット","order":1,"parentId":0,"scrollX":613.5,"scrollY":456.5},
-{"id":2,"expanded":false,"name":"さあ、村へいこう","order":5,"parentId":1,"scrollX":1728.5,"scrollY":448.5},
+{"id":2,"expanded":false,"name":"さあ、村へいこう","order":5,"parentId":1,"scrollX":1042.5,"scrollY":448.5},
 {"id":3,"expanded":false,"name":"異世界転移","order":4,"parentId":1,"scrollX":613.5,"scrollY":456.5},
 {"id":4,"expanded":false,"name":"オープニング","order":2,"parentId":1,"scrollX":613.5,"scrollY":456.5},
-{"id":5,"expanded":false,"name":"出会い","order":3,"parentId":1,"scrollX":1520.5,"scrollY":448.5},
-{"id":6,"expanded":false,"name":"子豚の村","order":6,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":7,"expanded":false,"name":"H1豚1","order":7,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":5,"expanded":false,"name":"出会い","order":3,"parentId":1,"scrollX":1647.5,"scrollY":448.5},
+{"id":6,"expanded":false,"name":"子豚の村","order":6,"parentId":1,"scrollX":613.5,"scrollY":456.5},
+{"id":7,"expanded":false,"name":"H1豚1","order":7,"parentId":0,"scrollX":613.5,"scrollY":456.5}
 ]
